@@ -7,8 +7,7 @@
 - 🧠 Artificial Intelligence & Machine Learning
 - 📦 Blockchain & Smart Contracts (Solidity, Ethereum)
 - 📊 Data Science & Visualization
-- 🎧 Music Production (FL Studio enthusiast!)
-
+  
 Currently, I’m doing a **6-week internship at Smart City Nashik**, contributing to public service interfaces and backend systems.
 
 ## 🛠️ Tech Stack
